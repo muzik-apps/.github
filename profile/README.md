@@ -1,6 +1,6 @@
 ## Welcome to Muzik
 
-![Presentation](Muzik.svg "Presentation")
+![Presentation](profile/Muzik.svg "Presentation")
 
 ### 🙋‍♀️ A short introduction 
 - This is a collection of applications that allow for music playing and music streaming all designed with beautiful ui's
